@@ -10,6 +10,10 @@ Run the command given below: python get-pip.py
 
 and wait through the installation process.
 
-Install pywhatkit: Run the command given below:
+Install pyttsx3: Run the command given below:
 
 pip install pyttsx3
+
+Install PyPDF2: Run the command given below:
+
+pip install PyPDF2
